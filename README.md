@@ -270,11 +270,9 @@ Through this project, the following skills were applied:
 
 # Author
 
-Preeti S
-
-Master’s in Data Analytics
-Specialization: Healthcare & Clinical Data Analytics
-
+Preeti A Sharma
+Data Analytics capstone Project
+Focus- Python, SQL, Tableau Dashboard and Story, Clinical Data Analytics, Biomarker-Analytics
 ---
 
 # Disclaimer
