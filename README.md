@@ -15,6 +15,9 @@ The project combines:
 
 The final outcome is an interactive analytics solution that helps understand how biomarker profiles influence prognosis and treatment alignment.
 
+## Disclaimer
+
+This project is designed and undertaken as a part of the Data Analytics Bootcamp (Dec 2025-Aprl 2026) from Neuefische GmbH(Berlin). It was a four-week project incluidng data retrieval, understanding, integration and building and driving insights. This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.
 ---
 
 # Problem Statement
@@ -228,18 +231,7 @@ Clinical Data + Expression Data
  Tableau Dashboard
             ↓
  Clinical Insights
-``
-
-# Future Improvements
-
-* Integrate machine learning survival prediction models
-* Add Kaplan-Meier survival curves using Python
-* Include additional biomarkers and pathway analysis
-* Build treatment recommendation scoring models
-* Deploy dashboards on Tableau Public or Tableau Server
-* Incorporate real-time clinical datasets
-
----
+```
 
 # Applications
 
