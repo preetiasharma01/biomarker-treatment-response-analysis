@@ -47,7 +47,7 @@ Traditional clinical factors alone are insufficient for accurate prognosis predi
 
 # Dataset Information
 
-The dataset was created by integrating clinical and expression data using Python and SQL.
+The dataset was created by integrating TCGA clinical and expression data using Python and SQL.
 
 ## Key Features Used
 
@@ -100,11 +100,6 @@ Clinical and genomic datasets were processed using Python and integrated into a 
 ## 2. Biomarker-Based Risk Stratification
 
 Patients were grouped into risk categories using biomarker expression patterns.
-
-### Example Risk Logic
-
-* High ALK expression + Low KRAS expression → Lower risk group
-* Low ALK expression + High KRAS expression → Higher risk group
 
 The project evaluates whether biomarker combinations correlate with:
 
@@ -267,19 +262,17 @@ Through this project, the following skills were applied:
 * SQL data modeling
 * Tableau dashboard design
 * Risk stratification analytics
-* Exploratory statistical analysis
+* Exploratory statistical analysis using Python
 * Data storytelling for healthcare
 
 ---
 
-# Author
+## Author
 
-Preeti A Sharma
-Data Analytics capstone Project
-Focus- Python, SQL, Tableau Dashboard and Story, Clinical Data Analytics, Biomarker-Analytics
+### Preeti A Sharma
+
+Data Analytics Capstone Project focused on Clinical and Biomarker Analytics using Python, SQL, and Tableau.
+
+
 ---
-
-# Disclaimer
-
-This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.
 
