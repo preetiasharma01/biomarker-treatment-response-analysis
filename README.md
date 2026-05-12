@@ -16,7 +16,7 @@ The project combines:
 The final outcome is an interactive analytics solution that helps understand how biomarker profiles influence prognosis and treatment alignment.
 
 ## Disclaimer
-This project is designed and undertaken as a part of the Data Analytics Bootcamp (Dec 2025-Aprl 2026) from Neuefische GmbH(Berlin). It was a four-week project incluidng data retrieval, understanding, integration and building and driving insights. This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.
+*This project is designed and undertaken as a part of the Data Analytics Bootcamp (Dec 2025-Aprl 2026) from Neuefische GmbH(Berlin). It was a four-week project incluidng data retrieval, understanding, integration and building and driving insights. This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.*
 ---
 
 # Problem Statement
