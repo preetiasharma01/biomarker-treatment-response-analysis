@@ -192,15 +192,15 @@ The project includes multiple interactive Tableau dashboards for clinical and bi
 ---
 ## Tableau Dashboard Preview
 
-![Dashboard 1](images/dashboard 1.png)
+![Dashboard 1](images/dashboard1.png)
 
-![Dashboard 2](images/dashboard 2.png)
+![Dashboard 2](images/dashboard2.png)
 
-![Dashboard 3](images/dashboard 3.png)
+![Dashboard 3](images/dashboard3.png)
 
-![Dashboard 4](images/dashboard 4.png)
+![Dashboard 4](images/dashboard4.png)
 
-![Dashboard 5](images/dashboard 5.png)
+![Dashboard 5](images/dashboard5.png)
 
 # Key Insights
 
