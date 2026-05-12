@@ -17,7 +17,9 @@ The final outcome is an interactive analytics solution that helps understand how
 
 ### Disclaimer
 
-### This project is designed and undertaken as a part of the Data Analytics Bootcamp (Dec 2025-Aprl 2026) from Neuefische GmbH(Berlin). It was a four-week project incluidng data retrieval, understanding, integration and building and driving insights. This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.
+This project was undertaken as part of the Data Analytics Bootcamp (Dec 2025 – Apr 2026) at Neuefische GmbH, Berlin. The project was completed over four weeks and involved data retrieval, data understanding, integration, analysis, and insight generation using clinical and biomarker datasets.
+
+This project is intended for educational and analytical purposes only. It is not designed for direct clinical diagnosis or medical decision-making.
 ---
 
 # Problem Statement
